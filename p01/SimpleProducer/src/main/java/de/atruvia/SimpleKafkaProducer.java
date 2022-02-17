@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class SimpleKafkaProducer {
 
-    private static final String TOPIC = "SimpleTopic";
+    private static final String TOPIC = "quickstart2";
 
     public void run() {
         try {
